@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Rust tests",
+      "setup": "",
+      "run": "cargo test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": null
+    }
+  ]
+}
